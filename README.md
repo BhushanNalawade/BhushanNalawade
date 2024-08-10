@@ -22,9 +22,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bhushan_312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhushan_312" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bhushan nalawade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhushan nalawade" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/bhushannalawade318/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/bhushannalawade318/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/bhushannalawade318/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/bhushannalawade318/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bhushan-nalawade-437415207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhushan nalawade" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/u/bhushannalawade318" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/bhushannalawade318/" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/bhushannalawade318/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/bhushannalawade318/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
